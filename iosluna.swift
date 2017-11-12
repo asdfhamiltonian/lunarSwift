@@ -1,12 +1,8 @@
-//
-//  iosluna.swift
-//  moon info
-//
-// Moon 4 arcminute calculation
+//iosluna.swift
+//A swift 4.0 class to calculate where the moon is in the sky, as well as moon rise and set times
 //Adapted from original code in QBASIC by Keith Burnett
 //Acessed from http://www.stargazing.net/kepler/moon2.html
-//Further adapted with algorithms/equations from page "How to Compute Planetary Positions"
-//by Paul Schlyter http://www.stjarnhimlen.se/ppcomp.html#20
+//Further adapted with algorithms/equations from page "How to Compute Planetary Positions" by Paul Schlyter http://www.stjarnhimlen.se/ppcomp.html#20
 
 import Foundation
 
